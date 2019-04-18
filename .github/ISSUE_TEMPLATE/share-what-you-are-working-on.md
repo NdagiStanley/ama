@@ -1,6 +1,6 @@
 ---
 name: Share what you are working on
-about: Describe this issue template's purpose here.
+about: Feel free to share what you are working on
 title: "[Working-on] - "
 labels: I'm working on
 assignees: NdagiStanley
